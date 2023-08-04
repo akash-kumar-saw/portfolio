@@ -1,6 +1,6 @@
 // import components
-import Hero from "./components/Hero";
-import Navbar from "./Layouts/Navbar";
+import AkashKumarSaw from "./components/AkashKumarSaw";
+import Navbar from "./layouts/Navbar";
 import Skills from "./components/Skills";
 import Service from "./components/Services";
 import Projects from "./components/Projects";
@@ -25,7 +25,7 @@ const App = () => {
   return (
     <div className="">
       <Navbar />
-      <Hero />
+      <AkashKumarSaw />
       <Skills />
       <Service />
       <Projects />
