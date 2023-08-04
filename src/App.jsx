@@ -33,7 +33,7 @@ const App = () => {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">Akash Kumar Saw</h6>
+        <h6>Akash Kumar Saw</h6>
         <p>2023 © All CopyRights Reserved</p>
       </footer>
     </div>
