@@ -51,6 +51,7 @@ const Testimonials = () => {
                   <p className="sm:text-base text-sm">{content.review}</p>
                   <br />
                   <h6>{content.name}</h6>
+                  <h7 className="sm:text-base text-sm">{content.designation}</h7>
                 </div>
               </div>
             </SwiperSlide>
