@@ -48,7 +48,7 @@ const Skills = () => {
         </div>
         <br />
         <div className="max-h-[300px] overflow-auto" >
-          <ul className="list-decimal px-4 font-Poppins sm:text-sm text-xs !leading-7">
+          <ul className="list-decimal px-8 font-Poppins sm:text-sm text-xs !leading-5">
             {selectSkill?.skill.map((tech, index) => (
               <li key={index}>{tech}</li>
             ))}
@@ -94,7 +94,6 @@ const Skills = () => {
               </div>
               <div>
                 <h6>{skill.name}</h6>
-                <p className="italic">{skill.para}</p>
                 <div
                   className="text-xl absolute top-3 right-3"
                 >
