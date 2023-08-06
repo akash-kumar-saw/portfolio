@@ -65,10 +65,6 @@ export const content = {
         count: "10+",
         text: "Proficient in coding across a spectrum of 10+ languages",
       },
-      // {
-      //   count: "20+",
-      //   text: "Projects Worked in my career",
-      // },
     ],
   },
   skills: {
