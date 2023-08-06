@@ -684,6 +684,11 @@ input,
   margin-right: 2rem;
 }
 
+.mx-10{
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
 .mt-10{
   margin-top: 2.5rem;
 }
@@ -723,6 +728,14 @@ input,
 
 .h-96{
   height: 24rem;
+}
+
+.h-\[100rem\]{
+  height: 100rem;
+}
+
+.h-20{
+  height: 5rem;
 }
 
 .max-h-\[300px\]{
@@ -883,6 +896,10 @@ input,
 
 .overflow-hidden{
   overflow: hidden;
+}
+
+.overflow-scroll{
+  overflow: scroll;
 }
 
 .rounded-xl{
