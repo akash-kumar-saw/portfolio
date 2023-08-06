@@ -19,7 +19,7 @@ const AkashKumarSaw = () => {
         </div>
 
         {/* first col */}
-        <div className="pb-16 px-6 pt-5" data-aos="fade-down">
+        <div className="pb-16 pt-5" data-aos="fade-down">
           <h2>{hero.title}</h2>
           <h2>{hero.subTitle}</h2>
           <br />
@@ -45,7 +45,7 @@ const AkashKumarSaw = () => {
         </div>
 
         {/* sec col */}
-        <div className="md:h-[37rem] h-96">
+        <div className="md:h-[30rem] h-96">
           <img
             src={hero.image}
             data-aos="slide-up"
