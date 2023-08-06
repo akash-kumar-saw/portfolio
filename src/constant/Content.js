@@ -18,7 +18,6 @@ import pawan from "../assets/images/Testimonials/pawan.png";
 import rahul from "../assets/images/Testimonials/rahul.png";
 
 import Hireme_person from "../assets/images/Hireme/person.png";
-import Hireme_person2 from "../assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -65,10 +64,6 @@ export const content = {
         count: "10+",
         text: "Proficient in coding across a spectrum of 10+ languages",
       },
-      // {
-      //   count: "20+",
-      //   text: "Projects Worked in my career",
-      // },
     ],
   },
   skills: {
@@ -165,7 +160,7 @@ export const content = {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECT",
     image1: Hireme_person,
-    image2: Hireme_person2,
+    image2: Hireme_person,
     para: "Looking for a tech collaborator who can handle all aspects of software magic? Let's come and create something amazing together.",
     btnText: "Hire Me",
   },
