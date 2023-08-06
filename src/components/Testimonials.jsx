@@ -43,7 +43,7 @@ const Testimonials = () => {
               <div
                 className={` duration-500 bg-bg_light_primary mx-8 border-2 
               p-8 h-full rounded-2xl flex items-center gap-6
-               border-slate-200 md:flex-row flex-col
+               border-slate-200 md:flex-row flex-col max-h-500 overflow-scroll
                 ${activeIndex !== i && "scale-75 blur-sm"}`}
               >
                 <img src={content.img} alt="..." className="h-24" />
