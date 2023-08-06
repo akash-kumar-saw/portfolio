@@ -704,10 +704,6 @@ input,
   height: 100%;
 }
 
-.h-96{
-  height: 24rem;
-}
-
 .h-fit{
   height: -moz-fit-content;
   height: fit-content;
@@ -723,6 +719,10 @@ input,
 
 .h-24{
   height: 6rem;
+}
+
+.h-96{
+  height: 24rem;
 }
 
 .max-h-\[300px\]{
@@ -780,6 +780,10 @@ input,
 
 .max-w-3xl{
   max-width: 48rem;
+}
+
+.max-w-\[30vw\]{
+  max-width: 30vw;
 }
 
 .flex-1{
@@ -1013,6 +1017,26 @@ input,
   padding-bottom: 0.75rem;
 }
 
+.px-2{
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.py-5{
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+}
+
+.px-16{
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.px-0{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .pb-16{
   padding-bottom: 4rem;
 }
@@ -1023,6 +1047,14 @@ input,
 
 .pt-14{
   padding-top: 3.5rem;
+}
+
+.pt-2{
+  padding-top: 0.5rem;
+}
+
+.pb-8{
+  padding-bottom: 2rem;
 }
 
 .text-center{
@@ -1255,6 +1287,14 @@ input,
 
   .md\:h-96{
     height: 24rem;
+  }
+
+  .md\:h-\[309rem\]{
+    height: 309rem;
+  }
+
+  .md\:h-\[30rem\]{
+    height: 30rem;
   }
 
   .md\:w-4\/12{
