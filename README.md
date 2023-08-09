@@ -1,6 +1,6 @@
 # Portfolio - ReactJS + ViteJS Application
 
-Welcome to my personal portfolio! This repository showcases my skills, and experiences as a Full Stack Website Developer. Feel free to explore the projects and learn more about my work.
+Welcome to my personal portfolio! Feel free to explore the projects and learn more about my work.
 
 ## Deployed @ https://akash-kumar-saw.github.io/portfolio
 
