@@ -13,6 +13,7 @@ import itopper from "../assets/images/projects/itopper.png";
 import kubernetes from "../assets/images/projects/kubernetes.jpeg";
 import nft from "../assets/images/projects/nft.png";
 import chatgpt from "../assets/images/projects/chatgpt.png";
+import decentralizedportfolio from "../assets/images/projects/decentralizedportfolio.png";
 import person_project from "../assets/images/projects/person.png";
 
 import pawan from "../assets/images/Testimonials/pawan.png";
@@ -121,19 +122,24 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "iTopper - Play Live Quiz for JEE/NEET & Win Money",
-        image: itopper,
-        link: "https://github.com/akash-kumar-saw/iTopper"
-      },
-      {
         title: "KubeDeployment - Powerful & Lightweight Kubernetes Deployment Manager",
         image: kubernetes,
         link: "https://github.com/akash-kumar-saw/KubeDeployment"
       },
       {
+        title: "DecentralizedPortfolio - Blockchain-Powered Portfolio",
+        image: decentralizedportfolio,
+        link: "https://github.com/akash-kumar-saw/DecentralizedPortfolio"
+      },
+      {
         title: "Driveblock - NFT-Based Image Hosting & Sharing on Ethereum",
         image: nft,
         link: "https://github.com/akash-kumar-saw/DriveBlock"
+      },
+      {
+        title: "iTopper - Play Live Quiz for JEE/NEET & Win Money",
+        image: itopper,
+        link: "https://github.com/akash-kumar-saw/iTopper"
       },
       {
         title: "ChatGPT CLI - Command Line Interface",
