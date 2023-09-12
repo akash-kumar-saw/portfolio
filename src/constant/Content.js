@@ -14,6 +14,7 @@ import kubernetes from "../assets/images/projects/kubernetes.jpeg";
 import nft from "../assets/images/projects/nft.png";
 import chatgpt from "../assets/images/projects/chatgpt.png";
 import decentralizedportfolio from "../assets/images/projects/decentralizedportfolio.png";
+import blockdrive from "../assets/images/projects/blockdrive.png";
 import person_project from "../assets/images/projects/person.png";
 
 import pawan from "../assets/images/Testimonials/pawan.png";
@@ -122,14 +123,19 @@ export const content = {
     image: person_project,
     project_content: [
       {
+        title: "DecentralizedPortfolio - Blockchain-Powered Portfolio",
+        image: decentralizedportfolio,
+        link: "https://github.com/akash-kumar-saw/DecentralizedPortfolio"
+      },
+      {
         title: "KubeDeployment - Powerful & Lightweight Kubernetes Deployment Manager",
         image: kubernetes,
         link: "https://github.com/akash-kumar-saw/KubeDeployment"
       },
       {
-        title: "DecentralizedPortfolio - Blockchain-Powered Portfolio",
-        image: decentralizedportfolio,
-        link: "https://github.com/akash-kumar-saw/DecentralizedPortfolio"
+        title: "BlockDrive - NFT-Based Image Hosting & Sharing on Ethereum",
+        image: blockdrive,
+        link: "https://github.com/akash-kumar-saw/BlockDrive"
       },
       {
         title: "Driveblock - NFT-Based Image Hosting & Sharing on Ethereum",
