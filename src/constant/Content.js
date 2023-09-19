@@ -138,11 +138,6 @@ export const content = {
         link: "https://github.com/akash-kumar-saw/BlockDrive"
       },
       {
-        title: "Driveblock - NFT-Based Image Hosting & Sharing on Ethereum",
-        image: nft,
-        link: "https://github.com/akash-kumar-saw/DriveBlock"
-      },
-      {
         title: "iTopper - Play Live Quiz for JEE/NEET & Win Money",
         image: itopper,
         link: "https://github.com/akash-kumar-saw/iTopper"
