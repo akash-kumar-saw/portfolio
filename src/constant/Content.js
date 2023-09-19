@@ -11,7 +11,6 @@ import devops from "../assets/images/Skills/devops.png";
 
 import itopper from "../assets/images/projects/itopper.png";
 import kubernetes from "../assets/images/projects/kubernetes.jpeg";
-import nft from "../assets/images/projects/nft.png";
 import chatgpt from "../assets/images/projects/chatgpt.png";
 import decentralizedportfolio from "../assets/images/projects/decentralizedportfolio.png";
 import blockdrive from "../assets/images/projects/blockdrive.png";
