@@ -122,9 +122,10 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "DecentralizedPortfolio - Blockchain-Powered Portfolio",
-        image: decentralizedportfolio,
-        link: "https://github.com/akash-kumar-saw/DecentralizedPortfolio"
+        title: "BlockDrive - NFT-Based Files Hosting & Sharing on Ethereum",
+        image: blockdrive,
+        link: "https://github.com/akash-kumar-saw/BlockDrive"
+        
       },
       {
         title: "KubeDeployment - Powerful & Lightweight Kubernetes Deployment Manager",
@@ -132,9 +133,9 @@ export const content = {
         link: "https://github.com/akash-kumar-saw/KubeDeployment"
       },
       {
-        title: "BlockDrive - NFT-Based Image Hosting & Sharing on Ethereum",
-        image: blockdrive,
-        link: "https://github.com/akash-kumar-saw/BlockDrive"
+        title: "DecentralizedPortfolio - Blockchain-Powered Portfolio",
+        image: decentralizedportfolio,
+        link: "https://github.com/akash-kumar-saw/DecentralizedPortfolio"
       },
       {
         title: "iTopper - Play Live Quiz for JEE/NEET & Win Money",
