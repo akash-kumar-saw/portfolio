@@ -13,7 +13,7 @@ const Hireme = () => {
           {Hireme.subtitle}
         </h4>
         <br />
-        <div className="flex items-center md:flex-row flex-col-reverse ">
+        <div className="flex items-center md:flex-row-reverse flex-col-reverse ">
           <img
             src={Hireme.image1}
             alt="..."
