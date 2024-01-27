@@ -1,13 +1,13 @@
-import Hero_person from "../assets/images/Hero/person.png";
+import Hero_person from "../assets/images/hero/person.png";
 
-import blockchainS from "../assets/images/Services/blockchain.png";
-import developmentS from "../assets/images/Services/development.png";
-import devopS from "../assets/images/Services/devops.png";
+import blockchainS from "../assets/images/services/blockchain.png";
+import developmentS from "../assets/images/services/development.png";
+import devopS from "../assets/images/services/devops.png";
 
-import blockchain from "../assets/images/Skills/blockchain.png";
-import webDev from "../assets/images/Skills/web-dev.png";
-import mobileDev from "../assets/images/Skills/mobile-dev.jpg";
-import devops from "../assets/images/Skills/devops.png";
+import blockchain from "../assets/images/skills/blockchain.png";
+import webDev from "../assets/images/skills/web-dev.png";
+import mobileDev from "../assets/images/skills/mobile-dev.jpg";
+import devops from "../assets/images/skills/devops.png";
 
 import itopper from "../assets/images/projects/itopper.png";
 import kubernetes from "../assets/images/projects/kubernetes.jpeg";
@@ -16,10 +16,10 @@ import decentralizedportfolio from "../assets/images/projects/decentralizedportf
 import blockdrive from "../assets/images/projects/blockdrive.png";
 import person_project from "../assets/images/projects/person.png";
 
-import pawan from "../assets/images/Testimonials/pawan.png";
-import rahul from "../assets/images/Testimonials/rahul.png";
+import pawan from "../assets/images/testimonials/pawan.png";
+import rahul from "../assets/images/testimonials/rahul.png";
 
-import Hireme_person from "../assets/images/Hireme/person.png";
+import Hireme_person from "../assets/images/hireme/person.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
