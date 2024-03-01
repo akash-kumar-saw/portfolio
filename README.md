@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! Feel free to explore the projects and learn more about my work.
 
-## Deployed @ https://akash-kumar-saw.github.io/portfolio
+## Deployed @ https://akashkumarsaw.in/
 
 ## Tech Stack
 
