@@ -27,7 +27,7 @@ const AkashKumarSaw = () => {
             <a href="#contact">
               <button className="btn mx-2">{hero.btnText}</button>
             </a>
-            <a href="https://docs.google.com/document/d/1FEdG6Kpzw7tzb56Mq1dTROQLJjx91WOoUBQIye4NvPc/" target="_blank">
+            <a href="https://docs.google.com/document/d/1Uvan5DjPGbZMYNjOb4WUUtWCG-j9toSpEBdO28iSUFk/" target="_blank">
               <button className="btn mx-2">Resume</button>
             </a>
           </div>
