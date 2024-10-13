@@ -75,7 +75,7 @@ export const content = {
       {
         name: "Full Stack Mobile App Development",
         logo: mobileDev,
-        skill: ["Java", "Kotlin", "Android Studio", "Swift", "Xcode", "JavaScript", "React Native", "NodeJS", "ExpressJS", "Dart", "Flutter", "API's" , "Firebase", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
+        skill: ["Java", "Kotlin", "Android Studio", "Swing", "Swift", "Xcode", "JavaScript", "React Native", "NodeJS", "ExpressJS", "Dart", "Flutter", "API's" , "Firebase", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
       },
       {
         name: "Full Stack Web Development",
