@@ -55,8 +55,8 @@ export const content = {
     },
   ],
   hero: {
-    title: "DevOps & BlockChain",
-    subTitle: "Engineer",
+    title: "Founder & CEO",
+    subTitle: "of MallPay",
     firstName: "Akash",
     LastName: "Kr Saw",
     btnText: "Contact Me",
@@ -73,12 +73,12 @@ export const content = {
     subtitle: "MY TECH PROFICIENCY",
     skills_content: [
       {
-        name: "Full Stack Mobile App Development",
+        name: "Full Stack Application Development",
         logo: mobileDev,
         skill: ["Java", "Kotlin", "Android Studio", "Swing", "NetBeans", "Swift", "Xcode", "JavaScript", "React Native", "NodeJS", "ExpressJS", "Dart", "Flutter", "API's" , "Firebase", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
       },
       {
-        name: "Full Stack Web Development",
+        name: "Full Stack Website Development",
         logo: webDev,
         skill: ["Python", "DJango", "Flask", "JavaScript", "ReactJS", "Tailwindcss", "ViteJS", "NextJS", "NodeJS", "ExpressJS", "WebSocket", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
       },
