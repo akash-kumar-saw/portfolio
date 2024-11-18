@@ -80,7 +80,7 @@ export const content = {
       {
         name: "Full Stack Website Development",
         logo: webDev,
-        skill: ["Python", "DJango", "Flask", "PHP", "JavaScript", "ReactJS", "jQuery", "Tailwindcss", "ViteJS", "NextJS", "NodeJS", "ExpressJS", "WebSocket", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
+        skill: ["Python", "DJango", "Flask", "PHP", "Ajax", "Laravel ", "JavaScript", "ReactJS", "jQuery", "Tailwindcss", "ViteJS", "NextJS", "NodeJS", "ExpressJS", "WebSocket", "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
       },
       {
         name: "CloudComputing & DevOps",
