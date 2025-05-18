@@ -55,8 +55,8 @@ export const content = {
     },
   ],
   hero: {
-    title: "Founder & CEO",
-    subTitle: "of MallPay",
+    title: "Full Stack Engineer",
+    subTitle: "DEV | WEB3 | DEVOPS",
     firstName: "Akash",
     LastName: "Kr Saw",
     btnText: "Contact Me",
@@ -90,7 +90,7 @@ export const content = {
       {
         name: "Web3/Blockchain",
         logo: blockchain,
-        skill: ["Solidity", "Smart Contracts", "ChainLink/Oracle", "Python", "Web3.py", "Eth-Brownie", "Web3.js", "Ethers.js", "Truffle", "Ganache", "Hardhat", "DJango", "Flask", "JavaScript", "ReactJS", "Tailwindcss", "ViteJS", "NextJS", "NodeJS", "ExpressJS",  "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
+        skill: ["Solidity", "Smart Contracts", "OpenZeppelin", "ChainLink/Oracle", "Python", "Web3.py", "Eth-Brownie", "Web3.js", "Ethers.js", "Truffle", "Ganache", "Hardhat", "DJango", "Flask", "JavaScript", "ReactJS", "Tailwindcss", "ViteJS", "NextJS", "NodeJS", "ExpressJS",  "MySQL", "SQL", "MongoDB", "PostgreSQL", "Git/GitHub", "GitLab"],
       },
     ],
     icon: MdArrowForward,
