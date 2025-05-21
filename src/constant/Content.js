@@ -55,8 +55,8 @@ export const content = {
     },
   ],
   AkashKrSaw: {
-    title: "DevOps & BlockChain",
-    subTitle: "Engineer",
+    title: "Full Stack Engineer",
+    subTitle: "DEV | WEB3 | DEVOPS",
     firstName: "Akash",
     LastName: "Kr Saw",
     btnText: "Contact Me",
