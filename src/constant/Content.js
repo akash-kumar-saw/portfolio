@@ -54,7 +54,7 @@ export const content = {
       icon: MdOutlinePermContactCalendar,
     },
   ],
-  hero: {
+  AkashKrSaw: {
     title: "DevOps & BlockChain",
     subTitle: "Engineer",
     firstName: "Akash",
