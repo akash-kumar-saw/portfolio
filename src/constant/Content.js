@@ -1,4 +1,4 @@
-import Hero_person from "../assets/images/Hero/person.png";
+import akash from "../assets/images/AkashKumarSaw/AkashKumarSaw.png";
 
 import blockchainS from "../assets/images/Services/blockchain.png";
 import developmentS from "../assets/images/Services/development.png";
@@ -14,7 +14,7 @@ import kubernetes from "../assets/images/Projects/kubernetes.jpeg";
 import chatgpt from "../assets/images/Projects/chatgpt.png";
 import decentralizedportfolio from "../assets/images/Projects/decentralizedportfolio.png";
 import blockdrive from "../assets/images/Projects/blockdrive.png";
-import person_project from "../assets/images/Projects/person.png";
+import akash_project from "../assets/images/Projects/AkashKumarSaw.png";
 
 import pawan from "../assets/images/Testimonials/pawan.png";
 import rahul from "../assets/images/Testimonials/rahul.png";
@@ -55,13 +55,13 @@ export const content = {
     },
   ],
   hero: {
-    title: "Full Stack Engineer",
-    subTitle: "DEV | WEB3 | DEVOPS",
+    title: "DevOps & BlockChain",
+    subTitle: "Engineer",
     firstName: "Akash",
     LastName: "Kr Saw",
     btnText: "Contact Me",
-    image: Hero_person,
-    hero_content: [
+    image: akash,
+    akash_content: [
       {
         count: "10+",
         text: "Proficient in coding across a spectrum of 10+ languages",
@@ -119,7 +119,7 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
+    image: akash_project,
     project_content: [
       {
         title: "BlockDrive - NFT-Based Files Hosting & Sharing on Ethereum",
@@ -182,9 +182,9 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "akashkumarsaw03@gmail.com",
+        text: "akash03@gmail.com",
         icon: GrMail,
-        link: "mailto:akashkumarsaw03@gmail.com",
+        link: "mailto:akash03@gmail.com",
       },
       {
         text: "+91 7979985211",

@@ -1,4 +1,3 @@
-// import content
 import { createElement, useState } from "react";
 import { content } from "../constant/Content";
 // import modal package

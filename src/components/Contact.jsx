@@ -1,6 +1,6 @@
 import { createElement, useRef } from "react";
 import { content } from "../constant/Content";
-import toast, { Toaster } from "react-hot-toast";
+import { Toaster } from "react-hot-toast";
 
 
 const Contact = () => {
