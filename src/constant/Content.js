@@ -19,7 +19,7 @@ import akash_project from "../assets/images/Projects/AkashKumarSaw.png";
 import pawan from "../assets/images/Testimonials/pawan.png";
 import rahul from "../assets/images/Testimonials/rahul.png";
 
-import Hireme_person from "../assets/images/Hireme/person.png";
+import akash_hireme from "../assets/images/Hireme/AkashKumarSaw.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -172,8 +172,8 @@ export const content = {
   Hireme: {
     title: "Hire Me",
     subtitle: "FOR YOUR PROJECT",
-    image1: Hireme_person,
-    image2: Hireme_person,
+    image1: akash_hireme,
+    image2: akash_hireme,
     para: "Looking for a tech collaborator who can handle all aspects of software magic? Let's come and create something amazing together.",
     btnText: "Hire Me",
   },
