@@ -12,6 +12,7 @@ import { useState } from "react";
 const Testimonials = () => {
   const { Testimonials } = content;
   const [activeIndex, setActiveIndex] = useState(0);
+
   return (
     <section>
       <div className="md:container px-5 pt-14">
@@ -41,8 +42,8 @@ const Testimonials = () => {
           {Testimonials.testimonials_content.map((content, i) => (
             <SwiperSlide key={i}>
               <div
-                className={` duration-500 bg-bg_light_primary mx-8 border-2 
-              p-8 h-full rounded-2xl flex items-center gap-6
+                className={` duration-500 bg-bg_light_primary md:mx-8 mx-12 border-2 
+              shadow-xl md:p-8 p-5 min-h-fit rounded-2xl flex items-center gap-6
                border-slate-200 md:flex-row flex-col
                 ${activeIndex !== i && "scale-75 blur-sm"}`}
               >

@@ -18,8 +18,8 @@ const AkashKumarSaw = () => {
 
         {/* first col */}
         <div className="pb-16 pt-5" data-aos="fade-down">
-          <h2>{AkashKrSaw.title}</h2>
-          <h2>{AkashKrSaw.subTitle}</h2>
+          <h2 className="text-4xl md:text-5xl font-bold">{AkashKrSaw.title}</h2>
+          <h2 className="text-4xl md:text-5xl font-bold">{AkashKrSaw.subTitle}</h2>
           <br />
           <div className="flex justify-end">
             <a href="#contact">
