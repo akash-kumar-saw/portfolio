@@ -1,4 +1,4 @@
-# Portfolio - ReactJS + ViteJS Application
+# Portfolio - My Personal Website
 
 Welcome to my personal portfolio! Feel free to explore the projects and learn more about my work.
 
@@ -8,7 +8,8 @@ Welcome to my personal portfolio! Feel free to explore the projects and learn mo
 
 - Frontend: ReactJS
 - Build Tool: ViteJS
-- Deployment: GitHub Pages 
+- Styling: TailwindCSS
+- Deployment: Vercel
 
 ## Getting Started
 
