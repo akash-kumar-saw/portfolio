@@ -14,6 +14,7 @@ import kubernetes from "../assets/images/Projects/kubernetes.jpeg";
 import chatgpt from "../assets/images/Projects/chatgpt.png";
 import decentralizedportfolio from "../assets/images/Projects/decentralizedportfolio.png";
 import blockdrive from "../assets/images/Projects/blockdrive.png";
+import pollhub from "../assets/images/Projects/pollhub.png"
 import akash_project from "../assets/images/Projects/AkashKumarSaw.png";
 
 import pawan from "../assets/images/Testimonials/pawan.png";
@@ -121,6 +122,11 @@ export const content = {
     subtitle: "MY CREATION",
     image: akash_project,
     project_content: [
+      {
+        title: "PollHub - Social Polling Platform",
+        image: pollhub,
+        link: "https://github.com/akash-kumar-saw/PollHub"
+      },
       {
         title: "BlockDrive - NFT-Based Files Hosting & Sharing on Ethereum",
         image: blockdrive,
