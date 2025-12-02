@@ -1,6 +1,7 @@
 // import components
 import AkashKumarSaw from "./components/AkashKumarSaw";
 import Navbar from "./layouts/Navbar";
+import Experience from "./components/Experience";
 import Skills from "./components/Skills";
 import Service from "./components/Services";
 import Projects from "./components/Projects";
@@ -28,6 +29,7 @@ const App = () => {
       <Navbar />
       <AkashKumarSaw />
       <Skills />
+      <Experience />
       <Service />
       <Projects />
       <Testimonials />
