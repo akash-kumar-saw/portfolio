@@ -3,20 +3,15 @@ import { content } from "../constant/Content";
 const Experience = () => {
   const { Experience: experienceData } = content;
 
-  const experienceSection = {
-    title: "Experience",
-    subtitle: "WHERE I'VE WORKED",
-  };
-
   return (
     <section className="min-h-fit bg-bg_light_primary" id="experience">
 
       <div className="md:container px-5 py-14">
         <h2 className="title" data-aos="fade-down">
-          {experienceSection.title}
+          {experienceData.title}
         </h2>
         <h4 className="subtitle" data-aos="fade-down">
-          {experienceSection.subtitle}
+          {experienceData.subtitle}
         </h4>
         <br />
 
@@ -27,12 +22,12 @@ const Experience = () => {
             style={{ left: "50%" }}
           ></div>
 
-          {experienceData.map((job, i) => (
+          {experienceData.experience_content.map((job, i) => (
             <div
               className={`mb-8 flex justify-between items-center w-full ${
                 i % 2 === 0 ? "right-timeline" : "left-timeline"
               }`}
-              key={job.id}
+              key={i}
               data-aos="fade-up"
               data-aos-delay={i * 300}
             >
