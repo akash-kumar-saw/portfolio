@@ -22,7 +22,6 @@ import rahul from "../assets/images/Testimonials/rahul.png";
 
 import akash_hireme from "../assets/images/Hireme/AkashKumarSaw.png";
 
-// import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward } from "react-icons/md";
 import { FaGithub, FaWhatsapp } from 'react-icons/fa';
@@ -96,19 +95,24 @@ export const content = {
     ],
     icon: MdArrowForward,
   },
-  Experience: [{
-    "title": "Technical Lead @ Paywaz",
-    "shift": "Remote | Full-time",
-    "description": "Tech Lead for the Payments & Transactions unit at Paywaz, a US-based fintech startup, responsible for architecting and building the blockchain-powered merchant infrastructure — including the React Native POS app, Node.js/Express backend, and React + Vite.js merchant dashboard. Led technical roadmap execution, managed AWS deployments, and ensured scalable multi-chain settlement flows. Also handled team hiring by screening 100+ resumes and conducting 50+ technical interviews to build the engineering team.",
-    "timePeriod": "Sept 2025 - Dec 2025",
+  Experience: {
+    title: "Experience",
+    subtitle: "WHERE I'VE WORKED",
+    experience_content: [
+      {
+        title: "Technical Lead @ Paywaz",
+        shift: "Remote | Full-time",
+        description: "Tech Lead for the Payments & Transactions unit at Paywaz, a US-based fintech startup, responsible for architecting and building the blockchain-powered merchant infrastructure — including the React Native POS app, Node.js/Express backend, and React + Vite.js merchant dashboard. Led technical roadmap execution, managed AWS deployments, and ensured scalable multi-chain settlement flows. Also handled team hiring by screening 100+ resumes and conducting 50+ technical interviews to build the engineering team.",
+        timePeriod: "Sept 2025 - Dec 2025",
+      },
+      {
+        title: "Full Stack Developer @ Paywaz",
+        shift: "Remote | Internship",
+        description: "Contributed to Paywaz, a US-based fintech startup, by developing a full-fledged Android POS application enabling merchants to accept crypto payments. Collaborated on backend services and the merchant dashboard to ensure seamless stablecoin settlements (e.g., USDT). Gained end-to-end exposure to mobile development, backend integration, and scalable payment infrastructure.",
+        timePeriod: " July 2025 - Sept 2025",
+      },
+    ],
   },
-  {
-    "title": "Full Stack Developer @ Paywaz",
-    "shift": "Remote | Internship",
-    "description": "Contributed to Paywaz, a US-based fintech startup, by developing a full-fledged Android POS application enabling merchants to accept crypto payments. Collaborated on backend services and the merchant dashboard to ensure seamless stablecoin settlements (e.g., USDT). Gained end-to-end exposure to mobile development, backend integration, and scalable payment infrastructure.",
-    "timePeriod": " July 2025 - Sept 2025",
-  }
-],
   services: {
     title: "Services",
     subtitle: "WHAT I OFFER",
