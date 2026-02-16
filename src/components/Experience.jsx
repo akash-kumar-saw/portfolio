@@ -18,37 +18,30 @@ const Experience = () => {
         <div className="relative wrap overflow-hidden p-10 h-full">
 
           <div
-            className="border-2-2 absolute border-opacity-20 border-gray-700 h-full border"
+            className="border-2-2 absolute border-opacity-20 border-gray-700 h-full border hidden lg:block"
             style={{ left: "50%" }}
+          ></div>
+
+          <div
+            className="border-2-2 absolute border-opacity-20 border-gray-700 h-full border lg:hidden"
+            style={{ left: "15px" }}
           ></div>
 
           {experienceData.experience_content.map((job, i) => (
             <div
               className={`mb-8 flex justify-between items-center w-full ${
-                i % 2 === 0 ? "right-timeline" : "left-timeline"
+                i % 2 === 0 ? "lg:flex-row-reverse" : "lg:flex-row"
               }`}
               key={i}
               data-aos="fade-up"
               data-aos-delay={i * 300}
             >
-              <div
-                className={`order-1 w-5/12 ${
-                  i % 2 === 0 ? "md:text-right" : "md:text-left"
-                }`}
-              >
-              </div>
+              <div className="hidden lg:block lg:w-5/12"></div>
+
+              <div className="hidden lg:block absolute left-1/2 w-6 h-6 bg-black rounded-full -ml-3 border-4 border-black z-10"></div>
 
               <div
-                className={`order-1 w-5/12 p-6 rounded-lg shadow-xl ${
-                  i % 2 === 0
-                    ? "md:text-left bg-white"
-                    : "md:text-right bg-white"
-                }`}
-                style={{
-                  order: i % 2 === 0 ? 2 : 0,
-                  marginLeft: i % 2 === 0 ? "2.5rem" : "0",
-                  marginRight: i % 2 !== 0 ? "2.5rem" : "0",
-                }}
+                className="w-full lg:w-5/12 p-6 rounded-lg shadow-xl bg-white"
               >
 
                 <h3 className="mb-3 font-bold text-lg text-primary_blue">
