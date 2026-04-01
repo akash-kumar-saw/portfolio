@@ -24,7 +24,7 @@ import akash_hireme from "../assets/images/Hireme/AkashKumarSaw.png";
 
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward } from "react-icons/md";
-import { FaGithub, FaWhatsapp } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine } from "react-icons/ri";
@@ -210,9 +210,9 @@ export const content = {
         link: "mailto:akashkumarsaw03@gmail.com",
       },
       {
-        text: "+91 7979985211",
-        icon: FaWhatsapp,
-        link: "https://wa.me/7979985211",
+        text: "akash-kumar-saw",
+        icon: FaLinkedin,
+        link: "https://www.linkedin.com/in/akash-kumar-saw/",
       },
       {
         text: "akash-kumar-saw",
